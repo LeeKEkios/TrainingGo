@@ -1,5 +1,5 @@
-name: Go
-on: [push, check_run]
+name: TraniningGoBuild
+on: [push]
 jobs:
 
   build:
